@@ -1,4 +1,4 @@
-# digital-bank
+# Digital-Bank
 This is a digital bank simulation program developed in Python. It allows you to create accounts, perform operations such as deposit, withdrawal and investment, check your balance and limit, among other features.
 
 # Functionalities
