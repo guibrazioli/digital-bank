@@ -15,7 +15,7 @@ This is a digital bank simulation program developed in Python. It allows you to 
 - investment: allows you to make investments in shares of companies with real-time quotes.
 - Login: Allows you to login to an existing account by providing the account number and password.
 
-#Requirements
+# Requirements
 - Python 3.x
 - datetime library
 - yfinance library
