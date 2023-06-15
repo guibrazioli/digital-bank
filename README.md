@@ -12,7 +12,7 @@ This is a digital bank simulation program developed in Python. It allows you to 
 - Consult balance: shows the current balance of a specific account.
 - Consult limit: shows the available credit limit in a specific account.
 - Show Data: Displays all data for a specific account.
-- investment: allows you to make investments in shares of companies with real-time quotes.
+- investment: allows you to make investments in stocks of companies with real-time quotes.
 - Login: Allows you to login to an existing account by providing the account number and password.
 
 # Requirements
